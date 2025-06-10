@@ -16,4 +16,5 @@ Platform Analysis: Analyzes Realisation % and ADR across various booking platfor
 🔧 Tools Used
 
 Microsoft Excel: Used for initial data preparation, cleaning, and sourcing.
+
 Power BI: Used for data modeling, DAX calculations, and creating interactive visualizations.
